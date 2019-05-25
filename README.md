@@ -1,5 +1,9 @@
 # Overview
 ```
+Build a Music Player with kotlin Support
+
+it is a simple music player with ofline database to store the fabourates songs which is selected by users.
+it also contain Shake to change songs features which makes it different from other music player
  
 ```
 
@@ -12,7 +16,9 @@
 ```
 
 ## Features
-
+* Browsing Songs Artist 
+* Shake to change song
+* Dark theme and UI customisability
 * Navigation View 
 * various Activity
 * Adaptor Classes
@@ -23,6 +29,11 @@
 * Well Constrained Layout
 * Customised buttons
 * Scrooling View
+* Playing queue in notification (Xposed)
+* Gestures for track switching
+* Play, Pause, Shuffle, Loop
+* Favorites
+
 
 
 ## Contributing
