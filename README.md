@@ -2,7 +2,7 @@
 ```
 Build a Music Player with kotlin Support
 
-it is a simple music player with ofline database to store the fabourates songs which is selected by users.
+it is a simple music player with offline database to store the fabourites songs which is selected by users.
 it also contain Shake to change songs features which makes it different from other music player
  
 ```
@@ -20,7 +20,7 @@ it also contain Shake to change songs features which makes it different from oth
 * Shake to change song
 * Dark theme and UI customisability
 * Navigation View 
-* various Activity
+* Various Activity
 * Adaptor Classes
 * Fragments
 * SQLite Database
